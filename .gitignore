@@ -1,0 +1,10 @@
+# SOLIDWORKS temporary/lock files
+~$*
+
+# Backup/temp files
+*.bak
+*.tmp
+
+# Windows junk
+Thumbs.db
+Desktop.ini
